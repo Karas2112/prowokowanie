@@ -1,7 +1,7 @@
 public class hello {
     public class main {
         public static void main{String[] args}{
-            System.out.println("goodbye cruel world");
+             System.out.println("hello cruel world");
         }
     }
 }
